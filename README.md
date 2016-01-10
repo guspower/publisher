@@ -11,4 +11,6 @@ or
     S3_BUCKET=<bucket> S3_KEY=<key> S3_SECRET=<secret> ./gradlew publish -PbaseUrl=<baseUrl> -Padditional=<additional resources...>"
 
 
+## Travis
+
 [![Build Status](https://travis-ci.org/guspower/publisher.svg?branch=master)](https://travis-ci.org/guspower/publisher)
